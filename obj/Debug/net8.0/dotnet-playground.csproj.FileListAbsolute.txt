@@ -1,0 +1,14 @@
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.GeneratedMSBuildEditorConfig.editorconfig
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.AssemblyInfoInputs.cache
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.AssemblyInfo.cs
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.csproj.CoreCompileInputs.cache
+/Users/basecamp/repo/dotnet-playground/bin/Debug/net8.0/dotnet-playground
+/Users/basecamp/repo/dotnet-playground/bin/Debug/net8.0/dotnet-playground.deps.json
+/Users/basecamp/repo/dotnet-playground/bin/Debug/net8.0/dotnet-playground.runtimeconfig.json
+/Users/basecamp/repo/dotnet-playground/bin/Debug/net8.0/dotnet-playground.dll
+/Users/basecamp/repo/dotnet-playground/bin/Debug/net8.0/dotnet-playground.pdb
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.dll
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/refint/dotnet-playground.dll
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.pdb
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/dotnet-playground.genruntimeconfig.cache
+/Users/basecamp/repo/dotnet-playground/obj/Debug/net8.0/ref/dotnet-playground.dll
